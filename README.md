@@ -8,4 +8,4 @@ Software compatible con el Siguiente Sistema Operativo: Ubuntu Linux 22.04
 Pasos de instalación
 1- Descargar el repositorio
 2- Dar permisos de ejecucción a install.sh
-3- Ejecutor como Super Usuario el script de install.sh
+3- Ejecutar como Super Usuario el script de install.sh
